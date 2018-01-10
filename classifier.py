@@ -120,7 +120,6 @@ def classify(argv):
   # Load training and eval data
 
   '''
-  .....
   train_data = [] # Returns np.array;
   train_labels = []
   for fileid in range(30) :
